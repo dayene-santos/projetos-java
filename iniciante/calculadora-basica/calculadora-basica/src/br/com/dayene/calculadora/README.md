@@ -31,23 +31,13 @@ Projeto em Java que simula uma calculadora básica. O sistema permite realizar o
 3. Execute o método `main()` da classe `Calculadora.java`.
 
 ---
-
-## ✍️ Exemplo de uso
-
-Digite o primeiro número:  20
-Digite o segundo número:  
-Digite o operador (+, -, *, /):  
-
----
 ## 📁 Estrutura do Projeto
 
-calculadora-basica/
-
-├── README.md
-
-    └── src/
-        └── br/
-└── com/
-└── dayene/
-└── calculadora/
-└── Calculadora.java
+    calculadora-basica/
+          └── src/
+             └── br/
+               └── com/
+                 └── dayene/
+                   └── calculadora/
+                     └── Calculadora.java
+    ├── README.md
