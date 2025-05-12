@@ -1,6 +1,7 @@
-# 📚 Repositório de Projetos em Java
+﻿# 📚 Repositório de Projetos em Java
 
 Este repositório reúne diversos **projetos e desafios práticos em Java**, organizados por nível de dificuldade. O objetivo é consolidar o aprendizado e praticar lógica de programação, programação orientada a objetos (POO) e desenvolvimento de aplicações Java, desde scripts simples até sistemas completos com integração web e APIs REST.
+O repositório será atualizado conforme a evolução do processo de aprendizado, refletindo cada nova etapa, conceito aprendido e desafios superados. À medida que o estudo avança, as alterações e melhorias serão registradas, permitindo acompanhar o progresso e facilitar o aprendizado contínuo.
 
 ---
 
@@ -32,57 +33,19 @@ Cada pasta contém os projetos correspondentes ao seu nível, com seu próprio `
 ### 🟢 Iniciante
 - Calculadora Básica  
 - Calculadora de Média Escolar  
-- Calculadora de Média Semestral  
-- Jogo: Adivinhe o Número  
-- Conversor de Moeda Simples  
-- Calculadora de IMC  
-- Lista de Compras  
-- Gerador de Senha Aleatória  
-- Contador de Palavras e Caracteres  
 
 ### 🟡 Intermediário
-- Controle de Estoque de Vinhos  
-- Controle de Tarefas  
-- Sistema de Cadastro de Usuários  
-- Sistema de Cadastro de Estudantes  
-- Relatório de Temperaturas Semanais  
-- Sistema Bancário Simples  
-- Gerenciador de Tarefas (To-do List)  
-- Controle de Estoque com Relatório  
-- Sistema de Biblioteca  
-- Controle de Estoque de Produtos  
-- Biblioteca com Catálogo de Livros  
-- Ranking de Jogadores  
-- Simulador de Caixa Eletrônico  
-- Campeonato de Corrida  
-- Sistema de Reservas de Quartos  
-- Agenda de Contatos  
-- Simulador de Votação  
-- Sistema de Login Básico  
-- Cadastro de Veículos  
-- Controle de Despesas Mensais  
-- Simulador de Fila de Atendimento  
-- Sistema de Vendas com Estoque  
-- Loja de Animais  
-- Jogo da Forca Simples  
+- 
 
 ### 🔴 Avançado
-- API REST com CRUD (Spring Boot)  
-- Aplicação Web com Spring + Thymeleaf  
-- Sistema de Gestão Escolar  
-- Sistema Financeiro Pessoal  
-- Sistema de Blog  
-- Aplicação Web com Receitas Culinárias  
-- Sistema de Pedidos para Restaurante  
-- API REST com CRUD Spring Boot  
-- Sistema de Reservas de Consultas Médicas  
+- 
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
 - Java 17+
-- IDEs: IntelliJ IDEA / Eclipse
+- IDEs: IntelliJ IDEA
 - Spring Boot (para APIs e aplicações web)
 - Thymeleaf (para front-end em projetos Spring MVC)
 - Maven / Gradle (para gerenciamento de dependências)
