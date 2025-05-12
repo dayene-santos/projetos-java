@@ -1,3 +1,8 @@
+/* Calculadora application
+ *
+ * @ author Dayene dos Santos
+ * @ version 1.00 2025/05/11
+ */
 package br.com.dayene.calculadora;
 
 import java.util.Scanner;
