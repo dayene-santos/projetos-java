@@ -32,7 +32,8 @@ Cada pasta contém os projetos correspondentes ao seu nível, com seu próprio `
 
 ### 🟢 Iniciante
 - Calculadora Básica  
-- Calculadora de Média Escolar  
+- Calculadora de Média Escolar 
+- Calculadora de Média Semestral
 
 ### 🟡 Intermediário
 - 

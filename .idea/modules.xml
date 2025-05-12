@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iniciante/calculadora-basica/calculadora-basica.iml" filepath="$PROJECT_DIR$/iniciante/calculadora-basica/calculadora-basica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/calculadora-media-escolar/calculadora-media-escolar.iml" filepath="$PROJECT_DIR$/iniciante/calculadora-media-escolar/calculadora-media-escolar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iniciante/calculadora-media-semestral/calculadora-media-semestral.iml" filepath="$PROJECT_DIR$/iniciante/calculadora-media-semestral/calculadora-media-semestral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projetos-java.iml" filepath="$PROJECT_DIR$/.idea/projetos-java.iml" />
+    </modules>
+  </component>
+</project>
