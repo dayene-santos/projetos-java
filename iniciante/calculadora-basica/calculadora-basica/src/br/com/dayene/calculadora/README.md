@@ -24,16 +24,9 @@ Projeto em Java que simula uma calculadora básica. O sistema permite realizar o
 
 ---
 
-## 🚀 Como executar
-
-1. Clone este repositório ou baixe o projeto.
-2. Abra o projeto no IntelliJ IDEA ou em qualquer outro editor de sua preferência.
-3. Execute o método `main()` da classe `Calculadora.java`.
-
----
 ## 📁 Estrutura do Projeto
 
-    calculadora-basica/
+    calculadora/
           └── src/
              └── br/
                └── com/
@@ -41,3 +34,4 @@ Projeto em Java que simula uma calculadora básica. O sistema permite realizar o
                    └── calculadora/
                      └── Calculadora.java
     ├── README.md
+
