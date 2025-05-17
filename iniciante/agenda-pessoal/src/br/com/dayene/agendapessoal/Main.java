@@ -1,6 +1,6 @@
-package main.java.br.com.dayene.agendapessoal;
+package br.com.dayene.agendapessoal;
 
-import main.java.br.com.dayene.agendapessoal.view.Menu;
+import br.com.dayene.agendapessoal.view.Menu;
 
 public class Main {
     public static void main(String[] args) {
