@@ -1,14 +1,14 @@
-📅 Agenda Pessoal - Nível Básico  
+## 📅 Agenda Pessoal - Nível Básico  
 Projeto em Java que permite gerenciar tarefas pessoais via terminal. O sistema possibilita adicionar, listar, concluir e remover tarefas, com atributos como título, descrição, data e prioridade.
 
-💡 Desafio
+## 💡 Desafio
 - Criar um sistema para cadastro e controle de tarefas
 - Permitir marcação de tarefas como concluídas
 - Listar todas as tarefas cadastradas
 - Remover tarefas pelo ID
 - Navegar no sistema por um menu simples via terminal
 
-🧠 Conceitos Praticados
+## 🧠 Conceitos Praticados
 - Programação Orientada a Objetos (POO)
 - Manipulação de listas com ArrayList
 - Uso de classes modelo, serviço e interface (Menu)
@@ -16,8 +16,7 @@ Projeto em Java que permite gerenciar tarefas pessoais via terminal. O sistema p
 - Estruturas de repetição e controle de fluxo com while e switch
 - Sobrescrita de métodos (toString)
 
-📁 Estrutura do Projeto  
-agendapessoal/  
+## 📁 Estrutura do Projeto  
 
 ```
 agendapessoal/

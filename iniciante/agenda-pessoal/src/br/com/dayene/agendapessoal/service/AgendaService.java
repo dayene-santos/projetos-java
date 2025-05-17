@@ -1,9 +1,8 @@
 package br.com.dayene.agendapessoal.service;
 
-import br.com.dayene.agendapessoal.model.Tarefa;
-
 import java.util.ArrayList;
 import java.util.List;
+import br.com.dayene.agendapessoal.model.Tarefa;
 
 public class AgendaService {
     private List<Tarefa> tarefas = new ArrayList<>();
@@ -43,6 +42,5 @@ public class AgendaService {
         }
         return false;
     }
-
 
 }

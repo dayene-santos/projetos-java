@@ -65,43 +65,43 @@ public class Menu {
         System.out.println("Tarefa adicionada com sucesso!");
     }
 
-        private void listarTarefas () {
-            List<Tarefa> tarefas = agendaService.listarTarefas();
+    private void listarTarefas () {
+        List<Tarefa> tarefas = agendaService.listarTarefas();
 
-            if (tarefas.isEmpty()) {
-                System.out.println("Nenhuma tarefa cadastrada.");
-            } else {
-                for (Tarefa tarefa : tarefas) {
-                    System.out.println(tarefa);
-                    System.out.println("------------------------");
-                }
+        if (tarefas.isEmpty()) {
+            System.out.println("Nenhuma tarefa cadastrada.");
+        } else {
+            for (Tarefa tarefa : tarefas) {
+                System.out.println(tarefa);
+                System.out.println("------------------------");
             }
         }
-        private void concluirTarefa () {
-            System.out.print("ID da tarefa que deseja concluir: ");
-            int id = scanner.nextInt();
-            scanner.nextLine();
-
-            boolean sucesso = agendaService.concluirTarefa(id);
-
-            if (sucesso) {
-                System.out.println("Tarefa marcada como concluída!");
-            } else {
-                System.out.println("Tarefa não encontrada ou já estava concluída.");
-            }
-        }
-        private void removerTarefa () {
-            System.out.print("ID da tarefa que deseja remover: ");
-            int id = scanner.nextInt();
-            scanner.nextLine();
-
-            boolean sucesso = agendaService.removerTarefa(id);
-
-            if (sucesso) {
-                System.out.println("Tarefa removida com sucesso!");
-            } else {
-                System.out.println("Tarefa não encontrada.");
-            }
-        }
-
     }
+    private void concluirTarefa () {
+        System.out.print("ID da tarefa que deseja concluir: ");
+        int id = scanner.nextInt();
+        scanner.nextLine();
+
+        boolean sucesso = agendaService.concluirTarefa(id);
+
+        if (sucesso) {
+            System.out.println("Tarefa marcada como concluída!");
+        } else {
+            System.out.println("Tarefa não encontrada ou já estava concluída.");
+        }
+    }
+    private void removerTarefa () {
+        System.out.print("ID da tarefa que deseja remover: ");
+        int id = scanner.nextInt();
+        scanner.nextLine();
+
+        boolean sucesso = agendaService.removerTarefa(id);
+
+        if (sucesso) {
+            System.out.println("Tarefa removida com sucesso!");
+        } else {
+            System.out.println("Tarefa não encontrada.");
+        }
+    }
+
+}
