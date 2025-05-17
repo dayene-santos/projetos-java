@@ -1,6 +1,6 @@
-package br.com.dayene.agendapessoal.service;
+package main.java.br.com.dayene.agendapessoal.service;
 
-import br.com.dayene.agendapessoal.model.Tarefa;
+import main.java.br.com.dayene.agendapessoal.model.Tarefa;
 
 import java.util.ArrayList;
 import java.util.List;
